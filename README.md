@@ -110,9 +110,8 @@ Berikut merupakan hasil evaluasi eksperimen yang telah dilakukan:
 | Keterangan | Skor |
 |---|---:|
 | Public Leaderboard Score | 0,86616 |
-| Peringkat saat pencatatan | 22 |
 
-*Catatan: Skor dan peringkat leaderboard merupakan hasil yang tercatat pada saat eksperimen berlangsung dan dapat berubah mengikuti pembaruan kompetisi.*
+*Catatan: Skor leaderboard merupakan hasil yang tercatat pada saat eksperimen berlangsung dan dapat berubah mengikuti pembaruan kompetisi.*
 
 ## 6. Teknologi dan Library
 
