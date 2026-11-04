@@ -136,15 +136,20 @@ document-image-classification/
 │
 ├── notebooks/
 │   ├── 01_EDA_Document_Classification.ipynb
-│   ├── 02_Modelling_Document_Classification.ipynb
+│   ├── 02A_Modelling_Document_Classification.ipynb
 │   ├── 02B_Optimasi_Document_Classification.ipynb
 │   └── 03_Submission_Document_Classification.ipynb
 │
 ├── results/
+│   ├── classification_report_320.csv
+│   ├── confusion_matrix_320.png
+│   ├── model_comparison.csv
+│   ├── submission.csv
+│   └── training_history_320.csv
 │
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ## 8. Lingkungan Eksperimen
