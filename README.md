@@ -238,5 +238,3 @@ Hasil tersebut menunjukkan bahwa peningkatan resolusi input melalui fine-tuning 
 Model ConvNeXt-Tiny 320 × 320 selanjutnya digunakan sebagai model final untuk menghasilkan prediksi pada data testing sebanyak 7.994 gambar.
 
 ---
-
-*Repository ini disusun sebagai dokumentasi implementasi dan eksperimen proyek Document Image Classification menggunakan pendekatan Deep Learning.*
