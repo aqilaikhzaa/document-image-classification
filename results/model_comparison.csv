@@ -1,0 +1,4 @@
+Model,Validation_Accuracy
+EfficientNet-B0 224,0.8325
+ConvNeXt-Tiny 224,0.858616
+ConvNeXt-Tiny 320,0.8626777066083424
