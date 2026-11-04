@@ -2,9 +2,9 @@
 
 ### Klasifikasi Gambar Dokumen Menggunakan Deep Learning dengan EfficientNet-B0 dan ConvNeXt-Tiny
 
-Repository ini berisi implementasi proyek klasifikasi gambar dokumen menggunakan pendekatan *Deep Learning*. Proyek ini dikembangkan untuk memenuhi tugas mata kuliah melalui kompetisi **Document Image Classification**.
+Repository ini menyajikan implementasi klasifikasi gambar dokumen menggunakan pendekatan *Deep Learning* dengan arsitektur EfficientNet-B0 dan ConvNeXt-Tiny. Tahapan yang dilakukan mencakup eksplorasi data, preprocessing, pelatihan model, optimasi, evaluasi, serta prediksi untuk mengklasifikasikan gambar dokumen ke dalam 16 kategori.
 
-Penelitian ini berfokus pada penerapan dan perbandingan arsitektur Convolutional Neural Network (CNN), yaitu EfficientNet-B0 dan ConvNeXt-Tiny, untuk mengklasifikasikan gambar dokumen ke dalam 16 kategori.
+Studi ini berfokus pada analisis dan perbandingan performa kedua arsitektur, serta mengevaluasi pengaruh peningkatan resolusi input terhadap kemampuan model dalam mengenali karakteristik visual dokumen, seperti struktur, tata letak, teks, dan elemen grafis.
 
 ---
 
