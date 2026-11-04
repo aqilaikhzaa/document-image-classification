@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition dataset
+data/
+dataset/
+*.tif
+*.tiff
+*.zip
+
+# Model checkpoints
+checkpoint/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Temporary experiment outputs
+outputs/
+wandb/
