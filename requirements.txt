@@ -1,1 +1,17 @@
+# Data Processing
+numpy
+pandas
+Pillow
 
+# Deep Learning
+torch
+torchvision
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Progress Bar
+tqdm
